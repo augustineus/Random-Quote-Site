@@ -48,3 +48,4 @@ $(document).ready(function() {
   })
   $('#new-quote').on('click', getQuote);
 });
+console.log('hi');
